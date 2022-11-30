@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "webkert-webshop-e39ea": {
+      "hosting": {
+        "Webshop": [
+          "webkert-webshop-e39ea"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "webkert-webshop-e39ea"
+  }
+}
